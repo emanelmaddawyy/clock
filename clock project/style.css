@@ -1,0 +1,9 @@
+/* line 1, D:/ui/learn JS/style.scss */
+#hours, #seconds, #minutes {
+  transition: .5s ease-in-out; }
+
+/* line 5, D:/ui/learn JS/style.scss */
+body {
+  text-align: center; }
+
+/*# sourceMappingURL=style.css.map */
